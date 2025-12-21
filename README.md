@@ -1,10 +1,11 @@
 Welcome to my GitHub account! Some important facts about me:
 
-Born and raised in New Delhi, India
-Second-year Computer Science and Artificial Intelligence Engineering student at Indira Gandhi Delhi Technical University for Women, New Delhi
-Proficient in Python, C/C++, Java, R, SQL.
-Passionate about building scalable solutions and driving innovation in agile, team-oriented environments.
-Feel free to check out my GitHub projects and for a more descriptive story check out my personal site!
+- Born and raised in New Delhi, India
+- Second-year Computer Science and Artificial Intelligence Engineering student at Indira Gandhi Delhi Technical University for Women, New Delhi
+- Proficient in Python, C/C++, Java, R, SQL.
+- Passionate about building scalable solutions and driving innovation in agile, team-oriented environments.
+
+ Feel free to check out my GitHub projects and for a more descriptive story check out my personal site!
 
 
 
