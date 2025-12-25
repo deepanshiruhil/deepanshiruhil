@@ -1,25 +1,31 @@
 Welcome to my GitHub account! Some important facts about me:
 
-- Born and raised in New Delhi, India
-- Second-year Computer Science and Artificial Intelligence Engineering student at Indira Gandhi Delhi Technical University for Women, New Delhi
-- Proficient in Python, C/C++, Java, R, SQL.
-- Passionate about building scalable solutions and driving innovation in agile, team-oriented environments.
+* 🎓 CSAI Undergraduate: Pursuing Bachelor's in Technology in the field of Computer Science with a specialisation in Artificial Intelligence @ [IGDTUW, New Delhi](https://www.igdtuw.ac.in)
+* Researcher: Engaged in multiple AI, ML & DL-based projects 
+* Machine Learning Expert: Keen on learning & exploring the rapidly growing field of AI & ML, and strive to contribute to the society in any capacity & to the best of my ability
+* Developer: Creating solutions that address real-world problems with the knowledge gained extending the use of Computer Science fundamentals, tools & technology to implement the solutions and driving innovation in agile, team-oriented environments.
+* Proficient in Python, C/C++, Java, R, SQL, Figma
+
 
  Feel free to check out my GitHub projects and for a more descriptive story check out my personal site!
 
 
 
-<!--
-**deepanshiruhil/deepanshiruhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Languages and Tools:
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,python,cpp,java,r,github,vercel&theme=dark" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 📬 Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/deepanshiruhil1/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+  <a href="mailto:ruhildeepanshi@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  </a>
+</p>
