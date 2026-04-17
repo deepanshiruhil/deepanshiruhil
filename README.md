@@ -7,10 +7,6 @@ Welcome to my GitHub account! Some important facts about me:
 * Proficient in Python, C/C++, Java, R, SQL, Figma
 
 
- Feel free to check out my GitHub projects and for a more descriptive story check out my personal site!
-
-
-
 ## 🔧 Languages and Tools:
 
 <p align="left">
