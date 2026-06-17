@@ -3,7 +3,9 @@
 * 🎓 CSAI Junior @[IGDTUW, New Delhi](https://www.igdtuw.ac.in)
 * Building at the intersection of ML, systems, and full-stack engineering.
 
-Currently interning @[**SaleosTech Limited, UK**](https://www.saleostech.com), where I architect multi-service backend systems with Python/FastAPI, PostgreSQL, Redis, and Docker. 
+Currently interning @[**SaleosTech Limited**](https://www.saleostech.com) Milton Keynes, UK where I architect multi-service backend systems with Python/FastAPI, PostgreSQL, Redis, and Docker. 
+
+@[**SaleosTech Limited**](https://www.saleostech.com), Milton Keynes, UK
 
 - Head of Web Dev & Design @ [Microsoft Student Chapter IGDTUW](https://msc-site.vercel.app)
 - Head of Design & Creative Strategy @ [TEDxIGDTU](https://www.ted.com/tedx/events/67321)
