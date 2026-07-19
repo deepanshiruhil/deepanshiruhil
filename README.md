@@ -30,20 +30,6 @@ Currently interning at [**SaleosTech Limited**](https://www.saleostech.com), Mil
 </p>
 
 ---
-
-## 🏆 Awards & Achievements
-
-| Achievement | Event | Date |
-|---|---|---|
-| 🏅 Exceptional Achievement Award | Felicitated by Vice-Chancellor, IGDTUW | Sep 2025 |
-| 🥇 1st Place, VISION UI/UX Competition | Rendezvous'25 — IIT Delhi | Sep 2025 |
-| 🥇 1st Place, Innoquest: The Constraint Challenge | Esya'25 — IIIT Delhi | Aug 2025 |
-| 🤖 Top 3 AI/ML Mentee (cohort-wide) | Google Developer's Group, IGDTUW | Mar 2025 |
-| 🥉 3rd Place, ILUX UI/UX Hackathon | Invictus'25 — DTU | Feb 2025 |
-| 📰 2nd Best Journalist, International Press | IIITDMUN'26 — IIIT Delhi | Jan 2026 |
-
----
-
 ## 💌 Connect with me
 
 <p align="left">
