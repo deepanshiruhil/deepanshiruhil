@@ -2,14 +2,14 @@
 
 CSAI Junior @[IGDTUW, New Delhi](https://www.igdtuw.ac.in) (Class of 2028)- building reliable, scalable systems at the intersection of full-stack engineering and applied ML.
 
-Currently interning at [**SaleosTech Limited**](https://www.saleostech.com), Milton Keynes, UK (Remote)- architecting a multi-service lead generation platform, following full SDLC practices including unit testing, PR reviews, and structured logging for observability.
+Previously interned @ [**SaleosTech Limited**](https://www.saleostech.com), Milton Keynes, UK. Architected a multi-service lead generation platform, following full SDLC practices including unit testing, PR reviews, and structured logging for observability.
 
 - Head of Web Dev & Design @ [Microsoft Student Chapter IGDTUW](https://msc-site.vercel.app)
 - Executive of Design & Creative strategy @[TedxIGDTUW](https://www.ted.com/tedx/events/67321)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -20,7 +20,7 @@ Currently interning at [**SaleosTech Limited**](https://www.saleostech.com), Mil
 
 ---
 
-## 🔧 Languages & Tools
+##  Languages & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,typescript,javascript,react,nextjs&theme=dark" />
